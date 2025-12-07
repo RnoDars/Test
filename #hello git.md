@@ -5,3 +5,4 @@ Tester l'intégration dVS Code / Git / Github avec quelques exercices
 ## todo
 - ajouter un fichier de test
 - Essayer un merge conflict plus tard
+## texte à annuler
