@@ -5,3 +5,5 @@
   - golang
   - node, npm, nvm : il faut éjà installer node avec de passer à next
   - next
+  - AWS cli
+  - Claude code
